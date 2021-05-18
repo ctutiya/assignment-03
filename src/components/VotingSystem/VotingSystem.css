@@ -1,0 +1,19 @@
+.language-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.language-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #f9e79f;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: space-between;
+}
+
+.language-item a {
+    text-decoration: none;
+    color: green;
+}
